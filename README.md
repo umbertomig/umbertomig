@@ -1,4 +1,4 @@
-## Umberto Mignozzetti (UCSD)
+# [Umberto Mignozzetti (UCSD)](https://www.dropbox.com/scl/fi/su5yg63jxfa93t711egf0/mignozzetti_cv.pdf?rlkey=vx92py4ofttfdt2jclsoxaxf9&dl=0)
 
 Hi there 👋!
 
@@ -10,4 +10,16 @@ My papers have contributed to understanding the nexus between legislature size a
 
 My research has been published or is forthcoming in the [American Journal of Political Science](https://doi.org/10.1111/ajps.12867), [British Journal of Political Science](https://doi.org/10.1017/S0007123422000552), [Journal of Experimental Political Science]( https://doi.org/10.1017/XPS.2020.19), [Research and Politics](https://doi.org/10.1177/2053168020914444), and [Global Environmental Politics](https://doi.org/10.1162/glep_a_00644).
 
-My lab [DeepVerse]() and my [webpage](https://umbertomig.github.io) have more details about my current and past work.
+Here you can find my [CV](https://www.dropbox.com/scl/fi/su5yg63jxfa93t711egf0/mignozzetti_cv.pdf?rlkey=vx92py4ofttfdt2jclsoxaxf9&dl=0) and information about the [DeepVerse]() lab.
+
+---
+
+## Publications
+
+---
+
+## Classes
+
+---
+
+## Contact
