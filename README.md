@@ -1,7 +1,5 @@
 # [Umberto Mignozzetti (UCSD)](https://www.dropbox.com/scl/fi/su5yg63jxfa93t711egf0/mignozzetti_cv.pdf?rlkey=vx92py4ofttfdt2jclsoxaxf9&dl=0)
 
-Hi there 👋!
-
 I am a Computational Political Scientist teaching at the [Department of Political Science](https://polisci.ucsd.edu) and the [Computational Social Sciences Program](https://css.ucsd.edu) at UC San Diego.
 
 My methodological research uses deep learning to optimally combine tabular (data frames) and non-tabular data (images, video, audio, GIS data) sources. My substantive research focuses on improving public goods provision in developing democracies.
