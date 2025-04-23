@@ -12,13 +12,13 @@ Here you can find my [CV](https://www.dropbox.com/scl/fi/su5yg63jxfa93t711egf0/m
 
 ## Working Papers
 
-- DeepComplete: Deep Learning Approach to Missing Data Imputation.
+- `DeepComplete`: Deep Learning Approach to Missing Data Imputation.
 
-- DeepNominate: Deep Learning Approach to Ideal Point Estimation.
+- `DeepNominate`: Deep Learning Approach to Ideal Point Estimation.
 
-- MRdeeP: Matching Estimators with Deep Learning.
+- Multivariate Multilevel Regression and Poststratification.
 
-- DeepMatch: Matching Estimators with Deep Learning.
+- `DeepMatch`: Matching Estimators with Deep Learning.
 
 ## Published
 
