@@ -22,7 +22,7 @@ Here you can find my [CV](https://www.dropbox.com/scl/fi/su5yg63jxfa93t711egf0/m
 
 ## Published
 
-1. 2024\. **Mignozzetti, U.**; Cepaluni, G.; Freire, D. Legislature Size and Welfare: Evidence from Brazil. *American Journal of Political Science*. [[link](https://doi.org/10.1111/ajps.12843)] [[replication](https://doi.org/10.7910/DVN/WRCPOC)]
+1. 2025\. **Mignozzetti, U.**; Cepaluni, G.; Freire, D. Legislature Size and Welfare: Evidence from Brazil. *American Journal of Political Science*. [[link](https://doi.org/10.1111/ajps.12843)] [[replication](https://doi.org/10.7910/DVN/WRCPOC)]
 
 1. 2023\. Freire, D.; **Mignozzetti, U.**; Roman, C.; Alptekin, H. The Effect of Legislature Size on Public Spending: A Meta-Analysis. *British Journal of Political Science*, 53(2): 776-788. [[link](https://doi.org/10.1017/S0007123422000552)] [[replication](https://doi.org/10.7910/DVN/5DEGYP)]
 
